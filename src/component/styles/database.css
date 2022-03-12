@@ -1,0 +1,15 @@
+.swwiper{
+    display: flex;
+    align-items: center;
+    height: 120vh;
+}
+.datahead{
+    font-weight: 600;
+    color: rgb(23, 77, 124);
+}
+.datapara{
+    font-size: 18px;
+    font-weight: 400;
+    width: 96%;
+    margin: auto;
+}
