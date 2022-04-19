@@ -1,4 +1,7 @@
 .container{
-    border: 1px solid red;
-    width: 120%;
+    /* border: 1px solid red; */
+    width: 100%;
+}
+.head_video{
+    width: 100%;
 }
